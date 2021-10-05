@@ -1,5 +1,6 @@
-dist
+dist*
 log
 *.swp
 *.o
 *.hi
+result
